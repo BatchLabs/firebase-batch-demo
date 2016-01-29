@@ -1,0 +1,25 @@
+bin
+gen
+.DS_Store
+.settings
+local.properties
+out
+build
+.gradle
+doc
+target
+google-play-services_lib
+temp
+
+
+# Recommended ignore from Gradle
+.idea/dataSources.*
+.idea/inspectionProfiles
+.idea/misc.xml
+.idea/tasks.xml
+
+.idea/dictionaries
+.idea/libraries
+
+# Local IDEA workspace
+.idea/workspace.xml

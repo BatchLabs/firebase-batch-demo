@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Batch+Firebase</string>
+    <string name="activity_title">Batch + Firebase</string>
+    <string name="welcome_text">Welcome!\n\nPlease sign in to continue.</string>
+    <string name="anon_sign_in">Sign in anonymously</string>
+    <string name="login_error_title">Login error</string>
+    <string name="login_error_message">An error occurred while trying to log in.\n\nPlease check your internet connection and try again!</string>
+    <string name="ok">OK</string>
+    <string name="copy_uid">Copy UID</string>
+    <string name="logout">Logout</string>
+    <string name="login_service">Login service</string>
+    <string name="user_id">User ID</string>
+    <string name="edittext_warning">Note: Changes made in the text boxes will not be applied.</string>
+</resources>
